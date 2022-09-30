@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table,
+th,
+td {
+    border: 2px solid black;
+    margin: 5px;
+    padding: 12px;
+    border-collapse: collapse;
+    text-align: center;
+
+
+}
+
+thead {
+    color: brown;
+}
+
+
+table {
+
+    width: 70%;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+
+
+}
+
+.head {
+    background-color: lightgreen;
+
+}
+
+.foot {
+    background-color: lightgreen;
+}
+
+.vehicle {
+    background-color: rgb(199, 221, 199);
+
+}
+
+.color {
+    background-color: rgb(236, 235, 235);
+}
